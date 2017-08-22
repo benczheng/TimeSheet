@@ -1,0 +1,3 @@
+﻿  MyForm.cpp
+MyForm.cpp(9): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  TimeSheet.vcxproj -> C:\Users\Hunterbender\documents\visual studio 2017\Projects\TimeSheet\Debug\TimeSheet.exe

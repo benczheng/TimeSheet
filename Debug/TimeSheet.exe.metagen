@@ -1,0 +1,59 @@
+  TimeSheet.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly TimeSheet, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class TimeSheet.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.DateTime lunch_in1 : Public
+    System.DateTime lunch_in2 : Public
+    System.DateTime lunch_in3 : Public
+    System.DateTime lunch_in4 : Public
+    System.DateTime lunch_in5 : Public
+    System.DateTime lunch_out1 : Public
+    System.DateTime lunch_out2 : Public
+    System.DateTime lunch_out3 : Public
+    System.DateTime lunch_out4 : Public
+    System.DateTime lunch_out5 : Public
+    System.DateTime work_in1 : Public
+    System.DateTime work_in2 : Public
+    System.DateTime work_in3 : Public
+    System.DateTime work_in4 : Public
+    System.DateTime work_in5 : Public
+    System.DateTime work_out1 : Public
+    System.DateTime work_out2 : Public
+    System.DateTime work_out3 : Public
+    System.DateTime work_out4 : Public
+    System.DateTime work_out5 : Public
+    System.TimeSpan lunch1 : Public
+    System.TimeSpan lunch2 : Public
+    System.TimeSpan lunch3 : Public
+    System.TimeSpan lunch4 : Public
+    System.TimeSpan lunch5 : Public
+    System.TimeSpan hour : Public
+    System.TimeSpan hour1 : Public
+    System.TimeSpan hour2 : Public
+    System.TimeSpan hour3 : Public
+    System.TimeSpan hour4 : Public
+    System.TimeSpan hour5 : Public
+    System.TimeSpan zeroComp : Public
+    Double wage : Public
+    Double totalSalary : Public
+    Double hoursWorked : Public
+    System.String savedLocation : Public
+    System.String firstName : Public
+    System.String lastName : Public
+    Boolean saved : Public
